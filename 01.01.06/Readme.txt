@@ -1,5 +1,7 @@
-Firmware Version 01.00.15
+Firmware Version 01.00.16
 
-Initial Firmware Version, in User mode for team evaluation
+Updated UX to include LED feedback for reed switch.
 
-Added debug switch on boot - if pins are bridged during boot for 4 seconds, debug is toggled
+Added mapping diagnostivcs for debug mode
+
+Widened field calibration limits
